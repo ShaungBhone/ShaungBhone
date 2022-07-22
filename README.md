@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I've been learning to code for 3 years, after switching careers. I started with HTML, CSS, and javascript. And I made a simple static project called Yangon Night. But have really found a passion for backend development. So I started with PHP with the laravel framework and I got a web agency called Digital Dots as a junior web developer. And then, I made many projects here and build many laravel projects. I need to level up my skill and change to another company as a full-stack developer called MINT. Currently, work here.
+I've been learning to code for 3 years, after switching careers. I started with HTML, CSS, and javascript. And I made a simple static project called Yangon Night. But have really found a passion for backend development. So I started with PHP with the laravel framework and I got a web agency called Digital Dots as a junior web developer. And then, I made many projects here and build many laravel projects. Sometimes, contributing the Burmese language to packages like filament admin and voyager admin, and others. However, I need to level up my skill and change to another company as a full-stack developer called MINT. Currently, work here.
 
 * 🌍  I'm based in Myanmar
 * 🖥️  See my portfolio at [LaraNotes](http://devsb.gitbook.io/laranotes/)
@@ -44,4 +44,12 @@ I've been learning to code for 3 years, after switching careers. I started with 
 
 <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/ShaungBhone"><img src="https://github-readme-stats.vercel.app/api?username=ShaungBhone&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShaungBhone's GitHub stats" /></a>
+
 <a href="http://www.github.com/ShaungBhone"><img src="https://activity-graph.herokuapp.com/graph?username=ShaungBhone&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/ShaungBhone" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaungBhone&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/phonelaayy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
