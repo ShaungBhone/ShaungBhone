@@ -7,10 +7,10 @@ Full Stack Developer
 I've been learning to code for 4 years, after switching careers. I started with HTML, CSS, and javascript. And I made a simple static project called Yangon Night. But have really found a passion for backend development. So I started with PHP with the laravel framework and I got a job at a web agency called Digital Dots as a junior web developer. And then, I have done many projects here and built many laravel projects. Sometimes, contributing the Burmese language to packages like filament admin and voyager admin, and others. However, I need to level up my skill and change to another company as a full-stack developer called MINT. Currently, work here.
 
 * 🌍  I'm based in Myanmar
-* 🖥️  See my portfolio at [LaraNotes](http://devsb.gitbook.io/laranotes/)
-* ✉️  You can contact me at [shaungbhone.business@gmail.com](mailto:shaungbhone.business@gmail.com)
+* 🖥️  See my [portfolio](https://www.shaungbhone.com/)
+* ✉️  You can contact me at [sbdev.business@gmail.com](mailto:sbdev.business@gmail.com)
 * 🧠  I'm learning algorithm and data structure
-* ⚡  I'm secretly Batman. I can't tell you.
+* ⚡  I'm sharing some rare [things](https://devsb.gitbook.io/laranotes/)
 
 ### Skills
 
