@@ -11,7 +11,8 @@ I've been learning to code for 4 years, after switching careers. I started with 
 * ✉️  You can contact me at [sbdev.business@gmail.com](mailto:sbdev.business@gmail.com)
 * 🧠  I'm learning algorithm and data structure
 * ⚡  I'm sharing some rare [things](https://devsb.gitbook.io/laranotes/)
-
+* &#129426; TALL stack lover.
+* &#127777; Automated testing geek.
 ### Skills
 
 <p align="left">
