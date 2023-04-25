@@ -13,7 +13,9 @@ I've been learning to code for 4 years, after switching careers. I started with 
 * ⚡  I'm sharing some rare [things](https://devsb.gitbook.io/laranotes/)
 * &#129426; TALL stack lover.
 * &#127777; Automated testing geek.
-* https://www.hackerrank.com/shaungbhone
+
+### HackerRank
+* [HackerRank](https://www.hackerrank.com/shaungbhone)
 ### Skills
 
 <p align="left">
