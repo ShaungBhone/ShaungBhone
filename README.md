@@ -29,7 +29,7 @@ I've been crafting web applications for **5 years**, specializing in full-stack 
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxt" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored. svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
@@ -41,12 +41,6 @@ I've been crafting web applications for **5 years**, specializing in full-stack 
 <a href="https://pestphp.com/" target="_blank" rel="noreferrer"><img src="https://pestphp.com/www/assets/logo.svg" width="38" height="38" alt="Pest" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://laracasts.com/images/topics/icons/aws-logo.svg" width="38" height="38" alt="AWS" /></a>
 </p>
-
-### GitHub Stats
-
-<a href="http://www.github.com/ShaungBhone"><img src="https://github-readme-stats.vercel.app/api? username=ShaungBhone&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShaungBhone's GitHub stats" /></a>
-
-<a href="https://github.com/ShaungBhone" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaungBhone&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 ### Support My Work
 
